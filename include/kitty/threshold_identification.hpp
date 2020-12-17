@@ -303,4 +303,3 @@ bool is_negative_unate_in_i( const TT& tt, uint8_t i )
 
 
 
-
